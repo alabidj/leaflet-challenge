@@ -1,3 +1,5 @@
+var api_key = "pk.eyJ1IjoiZGVqaXNlbnBhaSIsImEiOiJjbTQ3cDB6OTMwN2g5MmpwejBrOXdrODJ4In0.Ealwrk5BBDRGnXfu00EdPQ";
+
 var queryUrl= "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson";
 
 
